@@ -6,8 +6,11 @@
     gap: 35px;
     margin: 40px 0;
     &-img {
-        // width: fit-content;
+        width: 100px;
         height: 60px;
+        a {
+            height: 100%;
+        }
         img {
             height: 100%;
         }

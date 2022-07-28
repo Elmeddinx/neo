@@ -184,7 +184,12 @@ button,
 }
 
 .logos-img {
+  width: 100px;
   height: 60px;
+}
+
+.logos-img a {
+  height: 100%;
 }
 
 .logos-img img {
