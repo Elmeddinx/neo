@@ -1,0 +1,15 @@
+.logos {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 35px;
+    margin: 40px 0;
+    &-img {
+        // width: fit-content;
+        height: 60px;
+        img {
+            height: 100%;
+        }
+    }
+}
